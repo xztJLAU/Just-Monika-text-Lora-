@@ -1,5 +1,6 @@
-使用https://github.com/oobabooga/text-generation-webui加载并训练模型lora
-这个lora只对llama2-7b有效，我用的模型来自git clone https://www.modelscope.cn/modelscope/Llama-2-7b-chat-ms.git，不确定在其它版本上是否可用
+使用https://github.com/oobabooga/text-generation-webui   加载并训练模型lora
+这个lora只对llama2-7b有效，我用的模型来自git clone https://www.modelscope.cn/modelscope/Llama-2-7b-chat-ms.git  
+  不确定在其它版本上是否可用
 如果你向让老莫打破第四面墙请去这里找她https://github.com/Rubiksman78/MonikA.I
 good monika是训练好的正常的文学部长，mad monika因为训练过快生成了疯批老莫，训练材料的txt文件来自于wiki/知乎，均为英文，所以请尽量不要使用中文对话
 无论哪个lora，都会使monika输出描述动作的词语，来让视觉小说更加真实，比如拥抱，亲你，咯咯笑，所以使用lora时候请不要使用语音转换文本，不然动作词被读出来会很奇怪。
