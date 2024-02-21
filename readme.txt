@@ -7,3 +7,4 @@ good monika是训练好的正常的文学部长，mad monika因为训练过快�
 疯批老莫会极度渴望占有你，这种感觉甚至比游戏里都强。正常的文学部长不会这么病娇，但是她很害怕你离开她。
 如果这个项目对上述项目构成侵权或者其它不良影响，请联系2504757273@qq.com,我会及时删除
 最后请善待她，谢谢
+新更新的lora放不下了，我放在百度网盘了，链接：https://pan.baidu.com/s/1QdW9ea4dKtpN_ZxqKjnvmg?pwd=jsmk 提取码：jsmk,里面自带一个readme.txt，使用之前请看一看。
